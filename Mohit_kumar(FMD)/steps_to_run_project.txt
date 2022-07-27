@@ -1,0 +1,12 @@
+process to run the project-
+
+step-1 : Open jupyter notebook
+
+step-2 : upload dataset_create , test , with_mask and without mask file on the notebook
+
+step-3 : copy data.xml file in c drive
+
+step-4 : open the test file and execute the project
+
+
+Note-: Dataset_create file contain the code that how i created the dataset which is using by the test file
